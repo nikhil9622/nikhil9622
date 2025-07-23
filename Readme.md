@@ -1,6 +1,6 @@
 # 👋 Hi, I'm B. Nikhil Chandan
 
-🎓 3rd Year B.Tech Cyber Security Student at **Amrita Vishwa Vidyapeetham**  
+🎓 4th Year B.Tech Cyber Security Student at **Amrita Vishwa Vidyapeetham**  
 🔐 Passionate about **AI in Cybersecurity**, **Drug Response Prediction**, and **Real-World Impact Projects**  
 📍 Based in India | 📬 [9704689622](tel:+919704689622)
 
